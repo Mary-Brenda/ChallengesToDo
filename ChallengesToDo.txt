@@ -1,0 +1,282 @@
+Frequency =1
+
+- 298 Binary Tree Longest Consecutive Sequence 36.9% Medium | Google
+- 106 Construct Binary Tree from Inorder and Postorder Traversal 29.0% Medium | Microsoft
+- 271 Encode and Decode Strings 27.1% Medium | Google
+- 293 Flip Game 49.5% Easy | Google
+- 52 N- Queens II 39.2% Hard | Zenefit
+- 114 Flatten Binary Tree to Linked List 31.0% Medium | Microsoft
+- 34 Search for a Range 29.1% Medium | LinkedIn
+- 279 Perfect Squares 32.5% Medium | Google
+- Median of Two Sorted Arrays 18.6% Hard | Google
+- 195 Tenth Line 32.4% Easy | Adobe
+- Regular Expression Matching 22.0% Hard | Twitter
+- 112 Path Sum 31.3% Easy | Microsoft
+- 163 Missing Ranges 29.2% Medium | Google
+- 94 Binary Tree Inorder Traversal 39.6% Medium | Microsoft
+- 209 Minimum Size Subarray Sum 26.8% Medium | Facebook
+- 246 Strobogrammatic Number 36.3% Easy | Google
+- 265 Paint House II 35.6% Hard | Facebook
+- 63 Unique Paths II 29.3% Medium | Bloomberg
+- 312 Burst Balloons 36.4% Hard | Google
+- 231 Power of Two 36.4% Easy | Google
+- 295 Find Median from Data Stream 22.0% Hard | Google
+- 252 Meeting Rooms 41.6% Easy | Facebook
+- 80 Remove Duplicates from Sorted Array II 32.7% Medium | Facebook
+- 96 Unique Binary Search Trees 37.4% Medium | Snapchat
+- 156 Binary Tree Upside Down 38.3% Medium | LinkedIn
+- 214 Shortest Palindrome 19.7% Hard | Google
+- 224 Basic Calculator 22.1% Hard | Google
+- 205 Isomorphic Strings 29.5% Easy | LinkedIn
+- 333 Largest BST Subtree 26.5% Medium | Microsoft
+- 55 Jump Game 28.2% Medium | Microsoft
+- 332 Reconstruct Itinerary 23.8% Medium | Google
+- 150 Evaluate Reverse Polish Notation 23.5% Medium | LinkedIn
+- 337 House Robber III 37.0% Medium | Uber
+- 302 Smallest Rectangle Enclosing Black Pixels 39.0% Hard | Google
+- 38 Count and Say 28.9% Easy | Facebook
+- 172 Factorial Trailing Zeroes 32.7% Easy | Bloomberg
+- 318 Maximum Product of Word Lengths 39.6% Medium | Google
+- 326 Power of Three 36.5% Easy | Google
+- 310 Minimum Height Trees 26.6% Medium | Google
+- 85 Maximal Rectangle 23.4% Hard | Facebook
+- 152 Maximum Product Subarray 22.1% Medium | LinkedIn
+- 294 Flip Game II 41.3% Medium | Google
+- 73 Set Matrix Zeroes 33.4% Medium | Microsoft
+- 272 Closest Binary Search Tree Value II 33.1% Hard | Google
+- 60 Permutation Sequence 25.1% Medium | Twitter
+- 244 Shortest Word Distance II 35.3% Medium | LinkedIn
+- 229 Majority Element II 25.6% Medium | Zenefit
+- 331 Verify Preorder Serialization of a Binary Tree 31.7% Medium | Google
+- 113 Path Sum II 28.2% Medium | Bloomberg
+- 131 Palindrome Partitioning 27.6% Medium | Bloomberg
+- 16 3Sum Closest 29.0% Medium | Bloomberg
+- 296 Best Meeting Point 46.7% Hard | Twitter
+- 228 Summary Ranges 24.1% Medium | Google
+- 287 Find the Duplicate Number 38.5% Hard | Bloomberg
+- 245 Shortest Word Distance III 46.0% Medium | LinkedIn
+- 281 Zigzag Iterator 42.8% Medium | Google
+- 116 Populating Next Right Pointers in Each Node 36.5% Medium | Microsoft
+- 303 Range Sum Query – Immutable 24.4% Easy | Palantir
+- 316 Remove Duplicate Letters 24.9% Hard | Google
+- 166 Fraction to Recurring Decimal 15.1% Medium | Google
+- 14 Longest Common Prefix 28.1% Easy | Yelp
+- 292 Nim Game 52.7% Easy | Adobe
+- 199 Binary Tree Right Side View 34.3% Medium | Amazon
+- 315 Count of Smaller Numbers After Self 30.1% Hard | Google
+- 213 House Robber II 30.5% Medium | Microsoft
+- 122 Best Time to Buy and Sell Stock II 42.2% Medium | Bloomberg
+- 11 Container With Most Water 34.5% Medium | Bloomberg
+- 259 3Sum Smaller 38.2% Medium | Google
+- 309 Best Time to Buy and Sell Stock with Cooldown 36.6% Medium | Google
+- 225 Implement Stack using Queues 30.5% Easy | Bloomberg
+- 153 Find Minimum in Rotated Sorted Array 36.1% Medium | Microsoft
+- 62 Unique Paths 36.2% Medium | Bloomberg
+- 339 Nested List Weight Sum 54.7% Easy | LinkedIn
+- 313 Super Ugly Number 33.9% Medium | Google
+- 323 Number of Connected Components in an Undirected Graph 42.8% Medium | Google
+- 31 Next Permutation 26.5% Medium | Google
+- 109 Convert Sorted List to Binary Search Tree 30.4% Medium | Zenefit
+- 276 Paint Fence 30.9% Easy | Google
+- 300 Longest Increasing Subsequence 34.2% Medium | Microsoft
+- 157 Read N Characters Given Read4 29.5% Easy | Facebook
+- 256 Paint House 42.6% Medium | LinkedIn
+- 308 Range Sum Query 2D – Mutable 21.6% Hard | Google
+- 297 Serialize and Deserialize Binary Tree 27.8% Har | Uber
+- 37 Sudoku Solver 24.8% Hard | Uber
+- 320 Generalized Abbreviation 40.8% Medium | Google
+- 243 Shortest Word Distance 46.3% Easy | LinkedIn
+- 174 Dungeon Game 20.8% Hard | Microsoft
+- 89 Gray Code 36.3% Medium | Amazon
+- 100 Same Tree 43.2% Easy | Bloomberg
+- 321 Create Maximum Number 20.8% Hard | Google
+- 288 Unique Word Abbreviation 15.7% Easy | Google
+- 67 Add Binary 27.4% Easy | Facebook
+- 305 Number of Islands II 34.0% Hard | Google
+- 340 Longest Substring with At Most K Distinct Characters 37.2% Hard | Google
+- 301 Remove Invalid Parentheses 31.9% Hard | Facebook
+- 211 Add and Search Word – Data structure design 20.2% Medium | Facebook
+- 170 Two Sum III – Data structure design 24.0% Easy | LinkedIn
+- 275 H- Index II 32.5% Medium | Facebook
+- 334 Increasing Triplet Subsequence 33.2% Medium | Facebook
+- 90 Subsets II 30.5% Medium | Facebook
+- 105 Construct Binary Tree from Preorder and Inorder Traversal 28.6% Medium | Bloomberg
+- 324 Wiggle Sort II 22.1% Medium | Google
+- 108 Convert Sorted Array to Binary Search Tree 37.2% Medium | Airbnb
+- 159 Longest Substring with At Most Two Distinct Characters 34.7% Hard | Google
+- 255 Verify Preorder Sequence in Binary Search Tree 37.1% Medium | Zenefit
+- 65 Valid Number 12.1% Hard | LinkedIn
+- 278 First Bad Version 22.4% Easy | Facebook
+- 330 Patching Array 28.9% Medium | Google
+- 341 Flatten Nested List Iterator 19.8% Medium | Google
+- 327 Count of Range Sum 25.9% Hard | Google
+- 247 Strobogrammatic Number II 34.1% Medium | Google
+- 124 Binary Tree Maximum Path Sum 23.3% Hard | Microsoft
+- 280 Wiggle Sort 49.5% Medium | Google
+- 262 Trips and Users 16.1% Hard | Uber
+- 167 Two Sum II – Input array is sorted 47.8% Medium | Amazon
+- 329 Longest Increasing Path in a Matrix 31.2% Hard | Google
+- 66 Plus One 33.5% Easy | Google
+- 110 Balanced Binary Tree 34.0% Easy | Bloomberg
+- 12 Integer to Roman 38.8% Medium | Twitter
+- 187 Repeated DNA Sequences 25.2% Medium | LinkedIn
+
+ Frequency =2
+
+- Two Sum 23.0% Easy | Uber, Facebook
+- 189 Rotate Array 21.1% Easy | Microsoft, Bloomberg
+- 75 Sort Colors 34.7% Medium | Facebook, Microsoft
+- 290 Word Pattern 29.0% Easy | Uber, Dropbox
+- 47 Permutations II 28.0% Medium | LinkedIn, Microsoft
+- 162 Find Peak Element 33.0% Medium | Google, Microsoft
+- 282 Expression Add Operators 24.8% Hard | Google, Facebook
+- 191 Number of 1 Bits 37.5% Easy | Microsoft, Apple
+- 249 Group Shifted Strings 31.3% Easy | Google, Uber
+- 25 Reverse Nodes in k- Group 27.5% Hard | Facebook, Microsoft
+- 317 Shortest Distance from All Buildings 31.1% Hard | Google, Zenefit
+- 169 Majority Element 41.1% Easy | Zenefit, Adobe
+- 232 Implement Queue using Stacks 33.9% Easy | Microsoft, Bloomberg
+- 43 Multiply Strings 23.4% Medium | Facebook, Twitter
+- 204 Count Primes 24.2% Easy | Amazon, Microsoft
+- 268 Missing Number 40.0% Medium | Microsoft, Bloomberg
+- 128 Longest Consecutive Sequence 32.1% Hard | Google, Facebook
+- 68 Text Justification 16.1% Hard | LinkedIn, Airbnb
+- 266 Palindrome Permutation 50.4% Easy | Google, Uber
+- 283 Move Zeroes 44.0% Easy | Facebook, Bloomberg
+- 253 Meeting Rooms II 34.6% Medium | Google, Facebook
+- 210 Course Schedule II 21.0% Medium | Facebook, Zenefit
+- 277 Find the Celebrity 35.1% Medium | LinkedIn, Facebook
+- 171 Excel Sheet Column Number 41.5% Easy | Uber, Microsoft
+- 190 Reverse Bits 29.3% Easy | Airbnb, Apple
+- 234 Palindrome Linked List 28.0% Easy | Facebook, Amazon
+- 46 Permutations 35.7% Medium | LinkedIn, Microsoft
+- 286 Walls and Gates 37.2% Medium | Google, Facebook
+- 254 Factor Combinations 34.7% Medium | LinkedIn, Uber
+- 273 Integer to English Words 18.7% Hard | Facebook, Microsoft
+- 219 Contains Duplicate II 29.9% Easy | Airbnb, Palantir
+- 71 Simplify Path 21.9% Medium | Facebook, Microsoft
+- 70 Climbing Stairs 36.7% Easy | Apple, Adobe
+- 311 Sparse Matrix Multiplication 47.2% Medium | LinkedIn, Facebook
+- 291 Word Pattern II 34.8% Hard | Uber, Dropbox
+- 7 Reverse Integer 23.6% Easy | Apple, Bloomberg
+- 336 Palindrome Pairs 19.5% Hard | Google, Airbnb
+- 126 Word Ladder II 13.6% Hard | Amazon, Yelp
+- 165 Compare Version Numbers 17.4% Easy | Microsoft, Apple
+- 258 Add Digits 48.4% Easy | Microsoft, Adobe
+- 285 Inorder Successor in BST 35.6% Medium | Facebook, Microsoft
+- 198 House Robber 34.2% Easy | LinkedIn, Airbnb
+- 136 Single Number 49.6% Medium | Airbnb, Palantir
+- 118 Pascal’s Triangle 33.3% Easy | Twitter, Apple
+- 325 Maximum Size Subarray Sum Equals k 39.9% Easy | Facebook, Palantir
+- 39 Combination Sum 30.9% Medium | Uber, Snapchat
+- 220 Contains Duplicate III 18.5% Medium | Airbnb, Palantir
+
+ Frequency =3
+
+- 48 Rotate Image 34.6% Medium | Amazon, Microsoft, Apple
+- 207 Course Schedule 26.8% Medium | Zenefit, Apple, Yelp
+- 230 Kth Smallest Element in a BST 37.6% Medium | Google, Uber, Bloomberg
+- 88 Merge Sorted Array 30.0% Easy | Facebook, Microsoft, Bloomberg
+- 270 Closest Binary Search Tree Value 34.3% Easy | Google, Microsoft, Snapchat
+- 202 Happy Number 36.5% Easy | Uber, Airbnb, Twitter
+- 69 Sqrt(x) 25.2% Medium | Facebook, Apple, Bloomberg
+- 289 Game of Life 34.2% Medium | Google, Snapchat, Dropbox
+- 168 Excel Sheet Column Title 21.6% Easy | Facebook, Zenefit, Microsoft
+- 24 Swap Nodes in Pairs 35.1% Easy | Uber, Microsoft, Bloomberg
+- 261 Graph Valid Tree 32.5% Medium | Google, Facebook, Zenefit
+- 242 Valid Anagram 41.7% Easy | Uber, Amazon, Yelp
+- 101 Symmetric Tree 33.9% Easy | LinkedIn, Microsoft, Bloomberg
+- 239 Sliding Window Maximum 27.3% Hard | Google, Zenefit, Amazon
+- 221 Maximal Square 23.5% Medium | Airbnb, Facebook, Apple
+- 149 Max Points on a Line 14.2% Hard | LinkedIn, Twitter, Apple
+- 54 Spiral Matrix 22.5% Medium | Google, Uber, Microsoft
+- 133 Clone Graph 24.9% Medium | Google, Uber, Facebook
+- 217 Contains Duplicate 41.1% Easy | Airbnb, Yahoo, Palantir
+- 158 Read N Characters Given Read4 II – Call multiple times 23.4% Hard | Google, Facebook, Bloomberg
+- 53 Maximum Subarray 36.6% Medium | LinkedIn, Microsoft, Bloomberg
+- 91 Decode Ways 17.5% Medium | Uber, Facebook, Microsoft
+- 257 Binary Tree Paths 28.4% Easy | Google, Facebook, Apple
+- 240 Search a 2D Matrix II 34.4% Medium | Google, Amazon, Apple
+- 314 Binary Tree Vertical Order Traversal 30.3% Medium | Google, Facebook, Snapchat
+- 76 Minimum Window Substring 21.2% Hard | LinkedIn, Uber, Facebook
+- 237 Delete Node in a Linked List 43.7% Easy | Microsoft, Apple, Adobe
+- 28 Implement strStr() 24.8% Easy | Facebook, Microsoft, Apple
+- 22 Generate Parentheses 36.9% Medium | Google, Uber, Zenefit
+- 212 Word Search II 19.3% Hard | Google, Airbnb, Microsoft
+- 117 Populating Next Right Pointers in Each Node II 32.8% Hard | Facebook, Microsoft, Bloomberg
+- 103 Binary Tree Zigzag Level Order Traversal 28.6% Medium | LinkedIn, Microsoft, Bloomberg
+- 26 Remove Duplicates from Sorted Array 33.4% Easy | Facebook, Microsoft, Bloomberg
+- 78 Subsets 31.3% Medium | Uber, Facebook, Amazon
+- 274 H- Index 29.3% Medium | Google, Facebook, Bloomberg
+- 36 Valid Sudoku 30.5% Easy | Uber, Snapchat, Apple
+- 5 Longest Palindromic Substring 23.0% Medium | Amazon, Microsoft, Bloomberg
+- 44 Wildcard Matching 17.4% Hard | Google, Facebook, Snapchat
+- 186 Reverse Words in a String II 29.1% Medium | Uber, Amazon, Microsoft
+- 79 Word Search 22.9% Medium | Facebook, Microsoft, Bloomberg
+- 284 Peeking Iterator 33.5% Medium | Google, Apple, Yahoo
+- 57 Insert Interval 23.8% Hard | LinkedIn, Google, Facebook
+
+ Frequency =4
+
+- 3 Longest Substring Without Repeating Characters 21.9% Medium | Amazon, Bloomberg, Yelp, Adobe
+- 141 Linked List Cycle 37.0% Medium | Amazon, Microsoft, Yahoo, Bloomberg
+- 98 Validate Binary Search Tree 20.9% Medium | Facebook, Amazon, Microsoft, Bloomberg
+- 251 Flatten 2D Vector 33.8% Medium | Google, Airbnb, Twitter, Zenefit
+- 21 Merge Two Sorted Lists 35.4% Easy | LinkedIn, Amazon, Microsoft, Apple
+- 50 Pow(x, n) 27.9% Medium | LinkedIn, Google, Facebook, Bloomberg
+- 10 Regular Expression Matching 22.0% Hard | Google, Uber, Airbnb, Facebook
+- 161 One Edit Distance 28.4% Medium | Uber, Facebook, Twitter, Snapchat
+- 138 Copy List with Random Pointer 26.1% Hard | Uber, Amazon, Microsoft, Bloomberg
+- 8 String to Integer (atoi) 13.5% Easy | Uber, Amazon, Microsoft, Bloomberg
+- 104 Maximum Depth of Binary Tree 47.8% Easy | LinkedIn, Uber, Apple, Yahoo
+- 235 Lowest Common Ancestor of a Binary Search Tree 37.7% Easy | Facebook, Twitter, Amazon, Microsoft
+- 173 Binary Search Tree Iterator 34.5% Medium | LinkedIn, Google, Facebook, Microsoft
+- 160 Intersection of Two Linked Lists 30.2% Easy | Airbnb, Amazon, Microsoft, Bloomberg
+- 125 Valid Palindrome 23.8% Easy | Uber, Facebook, Zenefit, Microsoft
+
+ Frequency =5
+
+- 49 Group Anagrams 27.4% Medium | Uber, Facebook, Amazon, Bloomberg, Yelp
+- 151 Reverse Words in a String 15.7% Medium | Microsoft, Snapchat, Apple, Bloomberg, Yelp
+- 13 Roman to Integer 39.2% Easy | Uber, Facebook, Microsoft, Yahoo, Bloomberg
+- 127 Word Ladder 19.6% Medium | LinkedIn, Facebook, Amazon, Snapchat, Yelp
+- 121 Best Time to Buy and Sell Stock 36.0% Easy | Uber, Facebook, Amazon, Microsoft, Bloomberg
+- 236 Lowest Common Ancestor of a Binary Tree 28.8% Medium | LinkedIn, Facebook, Amazon, Microsoft, Apple
+- 218 The Skyline Problem 22.0% Hard | Google, Facebook, Twitter, Microsoft, Yelp
+- 238 Product of Array Except Self 42.6% Medium | LinkedIn, Facebook, Amazon, Microsoft, Apple
+- 15 3Sum 18.8% Medium | Facebook, Amazon, Microsoft, Bloomberg, Adobe
+- 140 Word Break II 19.7% Hard | Google, Uber, Twitter, Snapchat, Dropbox
+- 2 Add Two Numbers 23.0% Medium | Airbnb, Amazon, Microsoft, Bloomberg, Adobe
+- 17 Letter Combinations of a Phone Number 28.6% Medium | Google, Uber, Facebook, Amazon, Dropbox
+- 200 Number of Islands 27.6% Medium | Google, Facebook, Zenefit, Amazon, Microsoft
+- 33 Search in Rotated Sorted Array 30.2% Hard | LinkedIn, Uber, Facebook, Microsoft, Bloomberg
+- 269 Alien Dictionary 22.9% Hard | Google, Airbnb, Facebook, Twitter, Snapchat
+- 215 Kth Largest Element in an Array 33.1% Medium | Facebook, Amazon, Microsoft, Apple, Bloomberg
+
+ Frequency =6
+
+- 4 Median of Two Sorted Arrays 18.6% Hard | Zenefit, Microsoft, Apple, Yahoo, Dropbox, Adobe
+- 42 Trapping Rain Water 32.2% Hard | Google, Twitter, Zenefit, Amazon, Apple, Bloomberg
+- 139 Word Break 25.2% Medium | Google, Uber, Facebook, Amazon, Yahoo, Bloomberg
+- 155 Min Stack 22.0% Easy | Google, Uber, Zenefit, Amazon, Snapchat, Bloomberg
+- 102 Binary Tree Level Order Traversal 32.7% Easy | LinkedIn, Facebook, Amazon, Microsoft, Apple, Bloomberg
+- 208 Implement Trie (Prefix Tree) 25.3% Medium | Google, Uber, Facebook, Twitter, Microsoft, Bloomberg
+
+ Frequency =7
+
+- 1 Two Sum 23.0% Easy | LinkedIn, Airbnb, Microsoft, Yahoo, Dropbox, Bloomberg, Adobe
+- 56 Merge Intervals 25.3% Hard | LinkedIn, Google, Facebook, Twitter, Microsoft, Bloomberg, Yelp
+- 297 Serialize and Deserialize Binary Tree 27.8% Hard | LinkedIn, Google, Facebook, Amazon, Microsoft, Yahoo, Bloomberg
+
+ Frequency =8
+
+- 23 Merge k Sorted Lists 23.3% Hard | LinkedIn, Google, Uber, Airbnb, Facebook, Twitter, Amazon, Microsoft
+- 20 Valid Parentheses 29.3% Easy | Google, Airbnb, Facebook, Twitter, Zenefit, Amazon, Microsoft, Bloomberg
+
+ Frequency =11
+
+- 146 LRU Cache 15.8% Hard | Google, Uber, Facebook, Twitter, Zenefit, Amazon, Microsoft, Snapchat, Yahoo, Bloomberg, Palantir
+
+ Frequency =12
+
+- 206 Reverse Linked List 39.4% Easy | Uber, Facebook, Twitter, Zenefit, Amazon, Microsoft, Snapchat, Apple, Yahoo, Bloomberg, Yelp, Adobe
